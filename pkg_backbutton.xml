@@ -14,7 +14,7 @@
     <description>Backbutton plugin for Joomla 1.7+. Remember to publish the plugins</description>
 
     <files folder="packages">
-	<file type="plugin" id="backbutton"	group="content">plg_backbutton_multilanguage_j17_v1.2.1.zip</file>
-	<file type="plugin" id="backbutton"	group="editors-xtd">plg_editors-xtd_backbutton_j17_v1.1.1.zip</file>
+	<file type="plugin" id="backbutton" group="content">plg_backbutton_multilanguage_j17_v1.2.1.zip</file>
+	<file type="plugin" id="backbutton" group="editors-xtd">plg_editors-xtd_backbutton_j17_v1.1.1.zip</file>
     </files>
 </extension>
