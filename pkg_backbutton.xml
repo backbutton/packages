@@ -10,7 +10,7 @@
     <authorUrl>http://joomlacode.org/gf/project/backbutton/</authorUrl>
     <packager>Wojciech Smolińdski</packager>
     <packagerurl>http://joomlacode.org/gf/project/backbutton/</packagerurl>
-    <creationDate>February 27, 2012</creationDate>
+    <creationDate>May 19, 2015</creationDate>
     <description>Backbutton plugin for Joomla 1.7+. Remember to publish the plugins</description>
 
     <files folder="packages">
