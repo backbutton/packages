@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="2.5" method="upgrade">
+<extension type="package" version="2.5.7" method="upgrade">
     <name>pkg_backbutton</name>
     <packagename>backbutton</packagename>
     <copyright>Copyright Zwart Schaap webdesign 2008 and Wojciech Smoliński 2011</copyright>
