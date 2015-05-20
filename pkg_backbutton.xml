@@ -4,14 +4,14 @@
     <packagename>backbutton</packagename>
     <copyright>Copyright Zwart Schaap webdesign 2008 and Wojciech Smoliński 2011</copyright>
     <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <author>Wojciech Smolińdski</author>
     <authorEmail>wojsmol@wp.pl</authorEmail>
     <authorUrl>http://joomlacode.org/gf/project/backbutton/</authorUrl>
     <packager>Wojciech Smolińdski</packager>
     <packagerurl>http://joomlacode.org/gf/project/backbutton/</packagerurl>
     <creationDate>May 19, 2015</creationDate>
-    <description>Backbutton plugin for Joomla 1.7+. Remember to publish the plugins</description>
+    <description>Backbutton plugin for Joomla 2.5+. Remember to publish the plugins</description>
 
     <files folder="packages">
 	<file type="plugin" id="backbutton" group="content">plg_backbutton_multilanguage_j17_v1.2.1.zip</file>
