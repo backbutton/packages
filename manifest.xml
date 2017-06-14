@@ -9,7 +9,7 @@
 		<client>site</client>
 		<infourl title="Backbutton Package">https://github.com/backbutton/packages/releases/tag/plg_backbutton_v1.2.6</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/backbutton/packages/archive/plg_backbutton_v1.2.6.zip</downloadurl>
+			<downloadurl type="full" format="zip">hhttps://github.com/backbutton/packages/releases/download/plg_backbutton_v1.2.6/plg_backbutton_v1.2.6.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="2.5" />
 	</update>
@@ -22,7 +22,7 @@
 		<client>site</client>
 		<infourl title="Backbutton Package">https://github.com/backbutton/packages/releases/tag/plg_backbutton_v1.2.6</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/backbutton/packages/archive/plg_backbutton_v1.2.6.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/backbutton/packages/releases/download/plg_backbutton_v1.2.6/plg_backbutton_v1.2.6.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3.[0123456789]" />
 	</update>
